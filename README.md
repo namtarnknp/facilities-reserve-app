@@ -1,3 +1,12 @@
+Ms. Siriphen Pungetmongkol  5722771078
+Ms. Kanokporn Pupuang       5722781994
+Ms. Wipha Thomyamongkol     5722792629
+
+Facilities Reservation Application:
+Facilities for serving the room in hotel. For example, the period of date that you want to reserve. Also, you can choose type of room, offering thing and more option. This application will provide the information for facilitate reservation right at your home or wherever. Try this application for the best vacation time.
+
+
+<<<<<<< HEAD
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
@@ -218,3 +227,7 @@ There are a few steps you may want to take to troubleshoot these kinds of errors
 If you're not able to scan the QR code, make sure your phone's camera is focusing correctly, and also make sure that the contrast on the two colors in your terminal is high enough. For example, WebStorm's default themes may [not have enough contrast](https://github.com/react-community/create-react-native-app/issues/49) for terminal QR codes to be scannable with the system barcode scanners that the Expo app uses.
 
 If this causes problems for you, you may want to try changing your terminal's color theme to have more contrast, or running Create React Native App from a different terminal. You can also manually enter the URL printed by the packager script in the Expo app's search bar to load it manually.
+=======
+# facilities-reserve-app
+Facilities for serving the room in hotel. For example, the period of date that you want to reserve. Also, you can choose type of room, offering thing and  more option. This application will provide the information for facilitate reservation right at your home or wherever. Try this application for the best vacation time.
+>>>>>>> 629007eb6f0617e522a6d32e0ef703aac9a38d24
